@@ -1,0 +1,38 @@
+﻿body {
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  font-size: 10pt;
+  font-weight: bold;
+}
+a:link {
+  text-decoration : none;
+}
+a:visited {
+  text-decoration : none;
+}
+a:hover {
+  text-decoration : underline;
+}
+.doctitle {
+  text-align: center;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.backlink {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.overviewlist_all {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.overviewlist {
+  text-align: center;
+}
+.overviewlist_item {
+  margin-bottom: 0px;
+}

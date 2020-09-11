@@ -1,0 +1,66 @@
+﻿body {
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  font-size: 10pt;
+}
+a:link {
+  text-decoration : none;
+}
+a:visited {
+  text-decoration : none;
+}
+a:hover {
+  text-decoration : underline;
+}
+.doctitle {
+  text-align: center;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  font-size: 14pt;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.backlink {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.pageno {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.pagelinks {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.footer {
+  text-align: center;
+  margin-top: 75px;
+}
+.datatable {
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  font-size: 10pt;
+  background-color: #a9bed7;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.datatableheadingrow {
+  background: #ccdef4;
+  font-weight: bold;
+  color:#000000;
+}
+.datatableheadingcell {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.tablerowalt1 {
+  background-color: #edf3fe;
+}
+.tablerowalt2 {
+  background-color: #ffffff;
+}
+.tablerow2 {
+  font-weight: bold;
+}
